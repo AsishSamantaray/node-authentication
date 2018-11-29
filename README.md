@@ -1,1 +1,1 @@
-# node-authentication
+# A Simple Blog App using NodeJs
